@@ -20,6 +20,7 @@ A free, open-source Linux distribution based on **Fedora 44**, with its own Wayl
 - [BookOS-Player](https://github.com/bookos-os/BookOS-Player): music player
 - [BookOS-VoiceRecorder](https://github.com/bookos-os/BookOS-VoiceRecorder): voice recorder
 - [system-monitor](https://github.com/bookos-os/system-monitor): system monitor
+- [bookos-fonts](https://github.com/bookos-os/bookos-fonts): font manager, written in GPUI
 - [lumina](https://github.com/bookos-os/lumina): WhatsApp Web as a native app
 - [remap](https://github.com/bookos-os/remap): keyboard remapping
 
